@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Anuj Nautiyal 🎓
+# 👋 Hi, I'm Anuj Nautiyal
 
-🌱 **Student Developer** passionate about learning & building  
-💻 Interested in **Web Development** and problem-solving  
-🚀 Turning ideas into real-world projects, one line of code at a time  
+ **Student Developer** passionate about learning & building  
+ Interested in **Web Development** and problem-solving  
+ Turning ideas into real-world projects, one line of code at a time  
 
 ---
 
-## 🧠 Skills & Technologies
+##  Skills & Technologies
 
 ###  Languages
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/acad8fc0-0280-42d8-bdff-d39f58273a10" />
@@ -23,24 +23,24 @@
 
 ---
 
-## 🛠️ What I Love Building
-✨ I enjoy working on:
-- Responsive & modern websites 🌐  
-- Interactive UI components 🎨  
-- Beginner-friendly full-stack projects ⚙️  
-- Coding challenges & practice problems 🧩
+##  What I Love Building
+ I enjoy working on:
+- Responsive & modern websites  
+- Interactive UI components   
+- Beginner-friendly full-stack projects   
+- Coding challenges & practice problems 
 
   📌 *Explore my repositories to see my learning journey!*
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/anuj-3ab16739b)**
-- 🌱 Portfolio: *Coming Soon*
-- 📫 Open to learning, collaboration & opportunities!
+-  **[LinkedIn](https://www.linkedin.com/in/anuj-3ab16739b)**
+-  Portfolio: *Coming Soon*
+-  Open to learning, collaboration & opportunities!
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to star ⭐ my repositories if you like my work 😊**
+ **Thanks for visiting my profile! Feel free to star ⭐ my repositories if you like my work **
 
