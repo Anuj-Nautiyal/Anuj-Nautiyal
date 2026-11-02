@@ -21,7 +21,7 @@ Software developer with experience across web, mobile, and backend systems.
 ## Connect With Me
 
 - Email: anujnautiyal393@gmail.com
-- LinkedIn: linkedin.com/in/anujnautiyal
+- LinkedIn: www.linkedin.com/in/anujnautiyal
 
 ---
 
